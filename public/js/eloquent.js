@@ -4,6 +4,8 @@
 //   event.returnValue = "\o/";
 // });
 
+//Update github 
+
 // Mouse Motion //////////////////////
 var lastX; // Tracks the last observed mouse x position
 var rect = document.querySelector('div.drag-bar');
